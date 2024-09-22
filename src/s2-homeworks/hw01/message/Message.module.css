@@ -1,0 +1,43 @@
+.message {
+    outline: 1px solid gold;
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    width: 575px;
+    height: 77px;
+
+
+
+}
+
+.imageAndText {
+    outline: 2px solid firebrick;
+    background: #0066cb;
+    border-radius: 15px;
+}
+
+.imageAndText img {
+    width: 48px;
+    height: 48px;
+
+}
+
+.text {
+}
+
+.text:after {
+
+}
+
+.name {
+
+}
+
+.messageText {
+    outline: 3px solid palegoldenrod;
+
+}
+
+.time {
+
+}
